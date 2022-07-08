@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Minimal React Todo boilerplate
+
+To be used in quick testing of other libraries or ideas.
+
+## Notes
+
+-   The List and each of its Item could be implemented as their own components, but they are so basic and one can avoid unnecessary props drilling by not separating them.
+    -   It can be considered if more complex functionality is needed. Then use context or a similar solution.
+
+# Create React App Readme
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
