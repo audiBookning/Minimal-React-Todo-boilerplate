@@ -5,7 +5,10 @@ To be used in quick testing of other libraries or ideas.
 ## Notes
 
 -   The List and each of its Item could be implemented as their own components, but they are so basic and one can avoid unnecessary props drilling by not separating them.
+
     -   It can be considered if more complex functionality is needed. Then use context or a similar solution.
+
+-   Added more CRUD (remove todo, update title). This has made the example a little more complex than i would like for this project, but the UI/UX was of too low of a quality, even for me.
 
 # Create React App Readme
 
